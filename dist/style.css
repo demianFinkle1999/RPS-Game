@@ -1,0 +1,15 @@
+.container {
+    background-color: #555;
+    color: lightskyblue;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#player-selection {
+    padding: 1rem 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+}
